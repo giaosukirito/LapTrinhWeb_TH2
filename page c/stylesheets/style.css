@@ -164,13 +164,13 @@
 #section_university_5 .container #contact_form input {
     padding: 15px 10px;
     border: 1px solid gray;
-    border-radius: 2px;
+    border-radius: 4px;
 }
 
 #section_university_5 .container #contact_form select {
     padding: 15px 10px;
     border: 1px solid gray;
-    border-radius: 2px;
+    border-radius: 4px;
 }
 #hidden_pix_6 .pixfort_university_6 {
     display: none;
